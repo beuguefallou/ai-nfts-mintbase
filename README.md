@@ -1,6 +1,7 @@
 # AI NFTs
 
 Encode X Near Horizon 2023 Hackathon / Build Templates out of Mintbase SDK Bounty.
+AI NFTs is platform that allows artists and AI algorithms to collaborate in the creation of unique NFT artworks. 
 
 Team [AlphaDevs](https://alphadevs.dev) 👇
 
