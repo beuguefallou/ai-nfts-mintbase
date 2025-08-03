@@ -7,7 +7,7 @@ Team [SDHT](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/) 👇
 
 [Mouhamadou Fadilou Diop (@0xyshv)](https://github.com/beuguefallou) &
 
-[Aissatou Sow (@mr-harshtyagi)](https://github.com/mr-harshtyagi)
+[Aissatou Sow (@mr-harshtyagi)](https://gitlab.com/aissatasow5921)
 
 ## Links
 
@@ -80,13 +80,13 @@ Team [SDHT](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/) 👇
 
 ### Github
 
-[Harsh Tyagi](https://github.com/mr-harshtyagi)
-[Yashasvi Chaudhary](https://github.com/0xyshv)
+[Mouhamadou Fadilou DIop](https://github.com/beuguefallou)
+[Aissata Sow](https://gitlab.com/aissatasow5921)
 
-### Twitter / X
+### linkedin / X
 
-[Harsh Tyagi](https://twitter.com/mr_harshtyagi)
-[Yashasvi Chaudhary](https://twitter.com/0xyshv)
+[Mouhamadou Fadilou Diop](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/)
+[Aissata Sow](https://www.linkedin.com/in/aissata-sow592/)
 
 ## Thanks
 
