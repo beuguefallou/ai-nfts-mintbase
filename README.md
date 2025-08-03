@@ -3,16 +3,16 @@
 Encode X Near Horizon 2023 Hackathon / Build Templates out of Mintbase SDK Bounty.
 AI NFTs is platform that allows artists and AI algorithms to collaborate in the creation of unique NFT artworks. 
 
-Team [AlphaDevs](https://alphadevs.dev) 👇
+Team [SDHT](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/) 👇
 
-[Yashasvi Chaudhary (@0xyshv)](https://github.com/0xyshv) &
+[Mouhamadou Fadilou Diop (@0xyshv)](https://github.com/beuguefallou) &
 
-[Harsh Tyagi (@mr-harshtyagi)](https://github.com/mr-harshtyagi)
+[Aissatou Sow (@mr-harshtyagi)](https://github.com/mr-harshtyagi)
 
 ## Links
 
 - [Deployed URL](https://ai-nfts-sooty.vercel.app/)
-- [Git Repo with README](https://github.com/0xAlphaDevs/ai-nfts-mintbase)
+- [Git Repo with README](https://github.com/beuguefallou/ai-nfts-mintbase)
 - [NFT Smart Contract](https://testnet.mintbase.xyz/contract/nftaiartistry.mintspace2.testnet)
 - [Pitch Deck / Presentation PDF](https://docs.google.com/presentation/d/1wj2w7wOYvNFw1DN4wG_sWJ-JAB5GllnJZhiHwG-hlWM)
 

@@ -26,7 +26,7 @@
     "@mintbase-js/storage": "^0.4.1-beta.6-prerelease",
     "@near-wallet-selector/default-wallets": "^8.1.4",
     "@near-wallet-selector/modal-ui": "^8.5.4",
-    "@prisma/client": "^4.10.1",
+    "@prisma/client": "^4.16.2",
     "@vercel/analytics": "^0.1.10",
     "@vercel/og": "^0.1.0",
     "big.js": "^6.2.1",
