@@ -6,8 +6,9 @@ AI NFTs is platform that allows artists and AI algorithms to collaborate in the 
 Team [SDHT](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/) 👇
 
 [Mouhamadou Fadilou Diop (@0xyshv)](https://github.com/beuguefallou) &
-
 [Aissatou Sow (@mr-harshtyagi)](https://gitlab.com/aissatasow5921)
+[Harsh Tyagi](https://github.com/mr-harshtyagi)
+[Yashasvi Chaudhary](https://github.com/0xyshv)
 
 ## Links
 
@@ -87,6 +88,8 @@ Team [SDHT](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/) 👇
 
 [Mouhamadou Fadilou Diop](https://www.linkedin.com/in/mouhamadou-fadilou-diop-76899a161/)
 [Aissata Sow](https://www.linkedin.com/in/aissata-sow592/)
+[Harsh Tyagi](https://twitter.com/mr_harshtyagi)
+[Yashasvi Chaudhary](https://twitter.com/0xyshv)
 
 ## Thanks
 
